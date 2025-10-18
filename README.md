@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👩‍💻 About Me</h2>
 
 <div align="center">
 
@@ -79,7 +79,7 @@ const yoochan = {
 🔭 Working on **full-stack projects**  
 🌱 Learning **Advanced React & System Design**  
 🎨 Creating **digital art** with Krita & Blender  
-👯 Open to **collaborations**  
+👯‍♀️ Open to **collaborations**  
 💬 Ask me about **Web Dev, JavaScript, Art**
 
 </div>
