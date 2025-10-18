@@ -37,7 +37,7 @@ const yoochan = {
     frontend: ["React", "Vue", "Next.js", "Tailwind", "Bootstrap"],
     backend: ["Node.js", "Express", "Django", "Gin"],
     databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    tools: ["Git", "Docker", "VS Code", "Figma", "Adobe Creative Suite"]
+    devTools: ["Git", "Docker", "VS Code", "Figma"]
   }
 };
 ```
@@ -49,8 +49,11 @@ const yoochan = {
 <br>
 
 - **Art Style**: Figurative Expressionism
-- **Medium**: Digital Art & Visual Storytelling
-- **Tools**: Adobe Creative Suite, Procreate
+- **Medium**: Digital Art & Visual Storytelling, 3D Modeling
+- **Tools**: 
+  - 🖌️ **Krita** - Digital Painting
+  - 🎭 **Blender 3D** - 3D Modeling & Animation
+  - 📱 **Infinite Design** - Mobile Art (Android)
 - **Focus**: Merging code with creativity
 
 </details>
@@ -75,7 +78,7 @@ const yoochan = {
 
 🔭 Working on **full-stack projects**  
 🌱 Learning **Advanced React & System Design**  
-🎨 Creating **digital art**  
+🎨 Creating **digital art** with Krita & Blender  
 👯 Open to **collaborations**  
 💬 Ask me about **Web Dev, JavaScript, Art**
 
@@ -86,7 +89,7 @@ const yoochan = {
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,nodejs,html,css,bootstrap,tailwind,git,github,vscode,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,nodejs,html,css,bootstrap,tailwind,git,github,vscode,figma,blender&perline=8" />
 </p>
 
 <div align="center">
@@ -111,6 +114,11 @@ const yoochan = {
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🎨 Creative Tools
+![Krita](https://img.shields.io/badge/-Krita-3BABFF?style=flat-square&logo=krita&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Android](https://img.shields.io/badge/-Infinite_Design-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </div>
 
@@ -145,9 +153,11 @@ const yoochan = {
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yoochan45/Yoochan45/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yoochan45/Yoochan45/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yoochan45/Yoochan45/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yoochan45/Yoochan45/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
