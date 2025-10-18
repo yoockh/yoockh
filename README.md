@@ -153,11 +153,11 @@ const yoochan = {
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yoochan45/Yoochan45/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yoochan45/Yoochan45/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yoochan45/Yoochan45/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  
+![Snake animation](https://github.com/Yoochan45/Yoochan45/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
