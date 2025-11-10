@@ -17,7 +17,6 @@
 
 <div align="center">
 <h3>Hi there 👋 I’m Aisiya Qutwatunnada</h3>
-<p><strong>She/Her • Indonesia</strong></p>
 
 <p>I’m a backend-oriented fullstack developer, mostly working with <strong>Golang</strong>.  
 I’m also learning <strong>JavaScript</strong> and <strong>Python</strong> to level up my fullstack skills.  
