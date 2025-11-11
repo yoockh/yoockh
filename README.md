@@ -108,6 +108,31 @@ For me, writing code is an art — building something useful and meaningful for 
 
 ---
 
+<h2 align="center">Follow Me</h2>
+
+<p align="center">
+  <a href="https://instagram.com/yoo.chan45" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@yoo.chan45-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.credly.com/users/aisiya-qutwatunnada" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-aisiya_qutwatunnada-0A66C2?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
+  <a href="https://www.tiktok.com/@yoockh" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@yoockh-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aisiya-qutwatunnada" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-aisiya_qutwatunnada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yaya45chan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-yaya45chan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.dicoding.com/users/yoockh" target="_blank">
+    <img src="https://img.shields.io/badge/Dicoding-yoockh-00A7E6?style=for-the-badge&logo=appveyor&logoColor=white" alt="Dicoding"/>
+  </a>
+</p>
+
+---
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
