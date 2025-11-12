@@ -64,7 +64,7 @@ For me, writing code is an art — building something useful and meaningful for 
 
 </div>
 
----
+<!-- ---
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -72,7 +72,7 @@ For me, writing code is an art — building something useful and meaningful for 
   <img src="https://github-readme-stats.vercel.app/api?username=Yoochan45&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoochan45&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff" width="38%"/>
 </div>
-
+ -->
 <!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoochan45&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yoochan45&theme=radical" width="32%"/>
