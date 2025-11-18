@@ -32,7 +32,7 @@ For me, writing code is an art — building something useful and meaningful for 
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,ts,html,css,nodejs,nextjs,bootstrap,postgresql,mysql,mongodb,vscode,git,github,postman,supabase,heroku,gcp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,html,css,nodejs,nextjs,bootstrap,postgresql,mysql,mongodb,vscode,git,github,postman,supabase,heroku,gcp,linux&perline=8" />
 </p>
 
 <div align="center">
