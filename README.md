@@ -50,7 +50,7 @@ Backend-oriented fullstack dev (mostly **Golang**) • Learning **JavaScript** &
 
 | GitHub Stats | Top Languages |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=Yoochan45&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoochan45&layout=compact&theme=radical&hide_border=true" height="160" alt="top languages" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=yoockh&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoockh&layout=compact&theme=radical&hide_border=true" height="160" alt="top languages" /> |
 
 </div>
 
