@@ -31,7 +31,7 @@ Backend-oriented fullstack dev (mostly **Golang**) • Learning **JavaScript** &
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=yoockh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=yoockh&show_icons=true&theme=tokyonight&hide_border=true"
   height="160"
   alt="stats"
 />
