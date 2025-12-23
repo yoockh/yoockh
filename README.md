@@ -3,41 +3,23 @@
 ========================= -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=YOOCKH&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Your%20Own%20Outstanding%20Code%20Kreativity%20Hub&descSize=20&descAlignY=55"
+    src="https://svg-banners.vercel.app/api?type=glitch&text1=yoockh&text2=Go%20%7C%20Fullstack%20%7C%20Cloud%20%7C%20AI&width=1000&height=220"
     width="100%"
+    alt="banner"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=F7F7F7&center=true&vCenter=true&width=650&lines=Backend-oriented+Fullstack+Developer;Mostly+Go+(Golang);Learning+JavaScript+%26+Python;Interested+in+Cloud+%28AWS%2FAzure%29+%26+AI"
+    alt="typing intro"
   />
 </div>
 
 <div align="center">
 
-### Hi there, I’m **Aisiya Qutwatunnada**
+### Hi, I’m **Aisiya Qutwatunnada**
 Backend-oriented fullstack dev (mostly **Golang**) • Learning **JavaScript** & **Python** • Interested in **Cloud (AWS/Azure)** & **AI**
-
-</div>
-
-<!-- =========================
-     CONTACT / SOCIAL
-========================= -->
-<div align="center">
-
-<a href="https://instagram.com/yoo.chan45" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@yoo.chan45-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.credly.com/users/aisiya-qutwatunnada" target="_blank">
-  <img src="https://img.shields.io/badge/Credly-aisiya_qutwatunnada-0A66C2?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
-</a>
-<a href="https://www.tiktok.com/@yoockh" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-@yoockh-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-</a>
-<a href="https://www.linkedin.com/in/aisiya-qutwatunnada" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-aisiya_qutwatunnada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:yaya45chan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-yaya45chan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.dicoding.com/users/yoockh" target="_blank">
-  <img src="https://img.shields.io/badge/Dicoding-yoockh-00A7E6?style=for-the-badge&logo=appveyor&logoColor=white" alt="Dicoding"/>
-</a>
 
 </div>
 
@@ -48,9 +30,24 @@ Backend-oriented fullstack dev (mostly **Golang**) • Learning **JavaScript** &
 ========================= -->
 <div align="center">
 
-| GitHub Stats | Top Languages |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=yoockh&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoockh&layout=compact&theme=radical&hide_border=true" height="160" alt="top languages" /> |
+<img
+  src="https://github-readme-stats.vercel.app/api?username=yoockh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="160"
+  alt="stats"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoockh&layout=compact&theme=tokyonight&hide_border=true"
+  height="160"
+  alt="top languages"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=yoockh&theme=tokyonight&hide_border=true"
+  height="165"
+  alt="streak"
+/>
 
 </div>
 
