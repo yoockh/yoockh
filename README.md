@@ -3,7 +3,7 @@
 ========================= -->
 <div align="center">
   <img
-    src="https://svg-banners.vercel.app/api?type=glitch&text1=yoockh&text2=Go%20%7C%20Fullstack%20%7C%20Cloud%20%7C%20AI&width=1000&height=220"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=yoockh&fontSize=78&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Go%20%7C%20Fullstack%20%7C%20Cloud%20%&descSize=20&descAlignY=58"
     width="100%"
     alt="banner"
   />
