@@ -123,16 +123,17 @@ For me, writing code is an art — building something useful and meaningful for 
 ---
 
 <!-- =========================
-     FEATURED (opsional, biar terlihat "niat")
+     FEATURED
 ========================= -->
 <h2 align="center">Featured</h2>
 
 <div align="center">
-
-| What I’m focusing on | Highlights |
-|---|---|
-| Backend services with Go • API design • Databases | Add 2–3 pinned repos on your GitHub profile so they show nicely |
-
+  <a href="https://github.com/yoockh/milestone3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoockh&repo=milestone3&theme=radical&hide_border=true" alt="milestone3" />
+  </a>
+  <a href="https://github.com/yoockh/go-game-rental-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoockh&repo=go-game-rental-api&theme=radical&hide_border=true" alt="go-game-rental-api" />
+  </a>
 </div>
 
 ---
