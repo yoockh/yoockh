@@ -116,11 +116,11 @@ For me, writing code is an art — building something useful and meaningful for 
 
 
 <!-- QUOTE -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
----
+--- -->
 
 <!-- FOOTER -->
 <div align="center">
