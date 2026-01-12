@@ -22,13 +22,10 @@
 Backend-oriented fullstack dev (mostly **Golang**) • Learning **JavaScript** & **Python** • Interested in **Cloud (AWS/Azure)** & **AI**
 
 </div>
-
----
-
 <!-- =========================
      QUICK STATS (stable sources)
 ========================= -->
-<div align="center">
+<!-- <div align="center">
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=yoockh&show_icons=true&theme=tokyonight&hide_border=true"
@@ -49,7 +46,7 @@ Backend-oriented fullstack dev (mostly **Golang**) • Learning **JavaScript** &
   alt="streak"
 />
 
-</div>
+</div> -->
 
 ---
 
@@ -117,23 +114,6 @@ For me, writing code is an art — building something useful and meaningful for 
   </div>
 </details>
 
----
-
-<!-- =========================
-     FEATURED
-========================= -->
-<h2 align="center">Featured</h2>
-
-<div align="center">
-  <a href="https://github.com/yoockh/milestone3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoockh&repo=milestone3&theme=radical&hide_border=true" alt="milestone3" />
-  </a>
-  <a href="https://github.com/yoockh/go-game-rental-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoockh&repo=go-game-rental-api&theme=radical&hide_border=true" alt="go-game-rental-api" />
-  </a>
-</div>
-
----
 
 <!-- QUOTE -->
 <div align="center">
