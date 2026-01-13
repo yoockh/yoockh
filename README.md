@@ -1,8 +1,7 @@
 <div align="center">
-
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=yoockh&fontSize=78&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Go%20%7C%20Fullstack%20%7C%20Cloud%20%26%20AI&descSize=20&descAlignY=58&format=png"
-    alt="banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=YOOCKH&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Your%20Own%20Outstanding%20Code%20Kreativity%20Hub&descSize=20&descAlignY=55"
+    width="100%"
   />
 
   <img
@@ -43,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=go,python,js,ts,html,css,nodejs,nextjs,bootstrap,postgresql,mysql,mongodb,vscode,git,github,postman,supabase,heroku,gcp,linux&perline=10" alt="skills" />
 </div>
 
-<details>
+<!-- <details>
   <summary><b>Open detailed badges</b></summary>
   <br />
 
@@ -61,9 +60,9 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000" alt="Linux" />
   </div>
-</details>
+</details> -->
 
----
+<!-- ---
 
 ### GitHub stats
 
@@ -76,7 +75,7 @@
     src="https://streak-stats.demolab.com?user=yoockh&theme=github-dark-blue&hide_border=true"
     alt="streak"
   />
-</div>
+</div> -->
 
 ---
 
