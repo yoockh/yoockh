@@ -30,7 +30,7 @@
 - Backend-oriented fullstack developer, mostly working with Go
 - Learning JavaScript & Python step by step
 - Interested in Cloud (AWS/Azure) and how to build reliable systems
-- Also enjoy UI/graphic design using Canva and Krita
+- Also enjoy design using Canva and Krita
 
 > “For me, writing code is an art — building something useful and meaningful for people.”
 
