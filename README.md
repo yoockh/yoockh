@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=yoockh&fontSize=78&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Go%20%7C%20Fullstack%20%7C%20Cloud%20%26%20AI&descSize=20&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=yoockh&fontSize=78&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Go%20%7C%20Fullstack%20%7C%20Cloud%20%26%20AI&descSize=20&descAlignY=58&format=png"
     alt="banner"
   />
 
@@ -68,16 +68,7 @@
 ### GitHub stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yoockh&show_icons=true&theme=github_dark&hide_border=true"
-    alt="github stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoockh&layout=compact&theme=github_dark&hide_border=true"
-    alt="top languages"
-    height="165"
-  />
+  <img src="/github-metrics.svg" alt="metrics" width="100%" />
 </div>
 
 <div align="center">
@@ -97,5 +88,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&format=png" alt="footer" />
 </div>
