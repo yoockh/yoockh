@@ -38,7 +38,7 @@
 ### Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,go,js,ts,nextjs,nodejs,postgresql,docker&perline=9" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,go,js,ts,nextjs,nodejs,postgresql,docker,redis,elasticsearch,linux&perline=6" alt="skills" />
 </div>
 
 ---
@@ -47,7 +47,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=yoockh&theme=tokyonight&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=yoockh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"
     alt="stats"
   />
   <img
